@@ -70,15 +70,15 @@
 			<div class="container">
 				<nav role="navigation">
 					<ul class="pull-left left-menu">
-						<li><a href="{{url('about')}}">Acerca de</a></li>
-						<li><a href="pricing.php">Proyectos</a></li>
-						<li><a href="pricing.php">Proximos eventos</a></li>
+						<li><a href="/about">Acerca de</a></li>
+						<li><a href="/about">Proyectos</a></li>
+						<li><a href="/about">Proximos eventos</a></li>
 					</ul>
 					<h1 id="fh5co-logo"><a href="index.html">CDV ESCOM<span>.</span></a></h1>
 					<ul class="pull-right right-menu">
-						<li><a href="user/about.php">Anuncios</a></li>
-						<li><a href="pricing.php">Redes Sociales</a></li>
-						<li><a href="{{route('game.index')}}">Administrador</a></li>
+						<li><a href="/about">Anuncios</a></li>
+						<li><a href="/about">Redes Sociales</a></li>
+						<li><a href="/about">Administrador</a></li>
 					</ul>
 				</nav>
 			</div>

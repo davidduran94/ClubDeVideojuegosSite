@@ -63,15 +63,15 @@
 			<div class="container">
 				<nav role="navigation">
 					<ul class="pull-left left-menu">
-						<li><a href="about.php">Acerca de</a></li>
-						<li><a href="tour.php">Proyectos</a></li>
-						<li><a href="pricing.php">Proximos eventos</a></li>
+						<li><a href="/index">Acerca de</a></li>
+						<li><a href="/index">Proyectos</a></li>
+						<li><a href="/index">Proximos eventos</a></li>
 					</ul>
 					<h1 id="fh5co-logo"><a href="index.php">CDV ESCOM<span>.</span></a></h1>
 					<ul class="pull-right right-menu">
-						<li><a href="about.php">Anuncios</a></li>
-						<li><a href="pricing.php">Redes Sociales</a></li>
-						<li><a href="pricing.php">Dudas y Comentarios</a></li>
+						<li><a href="/index">Anuncios</a></li>
+						<li><a href="/index">Redes Sociales</a></li>
+						<li><a href="/index">Dudas y Comentarios</a></li>
 					</ul>
 				</nav>
 			</div>
